@@ -1,9 +1,9 @@
-### Olá, Mundo!
+### Olá, Mundo! :wave:
 Meu nome é Guilherme Andrade Rosa, possuo bacharel em Engenharia Civil, porém, entrei em contato com o mundo da programação e estou apaixonado pelas possibilidades da tecnologia . Adoro aprender coisas novas, e me sinto cada vez mais conectado com o mundo da programação.
 
 #### Alguns dos meus interesses pessoais
-- Adoro a leitura, estou sempre lendo algum livro, seja técnico ou não.
-- Adoro jogos de console, e completamente apaixonado por jogos de tabuleiro.
+- 📖 Adoro a leitura, estou sempre lendo algum livro, seja técnico ou não.
+- 🎲 Adoro jogos de console, e completamente apaixonado por jogos de tabuleiro.
 - Adoro processos de gestão, análise de dados, otimização de processos, e atualmente estou estudando Ciência de Dados juntamente ao curso de Desenvolvimento Web na Trybe.
 - Atualmente estou focado na aprendizagem de back-end, o módulo de aprendizagem que estou atualmente no curso da Trybe. Focado an aprendizagem de bando de dados, Node, express, typescript e também TDD.
 - No que tange a aprendizagem do Desenvolvimento Web. No front-end, eu adoro utilizar o react, componentizar o máximo que posso e exercer as lógicas dentro destes. Admito que CSS não é a minha especialidade :smile: . 
